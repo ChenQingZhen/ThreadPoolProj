@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\build\\intermediates\\res\\merged\\debug\\layout\\fragmenthost.xml",
+        "source": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\src\\main\\res\\layout\\fragmenthost.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\build\\intermediates\\res\\merged\\debug\\layout\\galleryitem.xml",
+        "source": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\src\\main\\res\\layout\\galleryitem.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\build\\intermediates\\res\\merged\\debug\\layout\\photo.xml",
+        "source": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\src\\main\\res\\layout\\photo.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\build\\intermediates\\res\\merged\\debug\\layout\\gridlist.xml",
+        "source": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\src\\main\\res\\layout\\gridlist.xml"
+    }
+]

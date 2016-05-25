@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\build\\intermediates\\res\\merged\\debug\\drawable\\imagedownloading.xml",
+        "source": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\src\\main\\res\\drawable\\imagedownloading.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\build\\intermediates\\res\\merged\\debug\\drawable\\imagequeued.xml",
+        "source": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\src\\main\\res\\drawable\\imagequeued.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\build\\intermediates\\res\\merged\\debug\\drawable\\decodequeued.xml",
+        "source": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\src\\main\\res\\drawable\\decodequeued.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\build\\intermediates\\res\\merged\\debug\\drawable\\decodedecoding.xml",
+        "source": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\src\\main\\res\\drawable\\decodedecoding.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\build\\intermediates\\res\\merged\\debug\\drawable\\imagenotqueued.xml",
+        "source": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\src\\main\\res\\drawable\\imagenotqueued.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\build\\intermediates\\res\\merged\\debug\\drawable\\imagedownloadfailed.xml",
+        "source": "E:\\Android\\AndroidStudioWorkspace\\ThreadPoolProj\\threadsample\\src\\main\\res\\drawable\\imagedownloadfailed.xml"
+    }
+]

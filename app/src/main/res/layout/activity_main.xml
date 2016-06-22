@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.google.threadpoolproj.MainActivity">
 
-    <TextView
+    <TextView android:id="@+id/tv_processor"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
